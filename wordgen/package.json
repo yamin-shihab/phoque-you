@@ -1,0 +1,20 @@
+{
+  "name": "wordgen",
+  "version": "1.0.0",
+  "description": "Generates words for phoque-you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "words",
+    "insults",
+    "generator",
+    "random"
+  ],
+  "author": "yamin-shihab",
+  "license": "MIT",
+  "dependencies": {
+    "compromise": "^14.8.2"
+  }
+}
