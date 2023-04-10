@@ -1,4 +1,5 @@
 aback
+abaxially
 abeam
 abed
 abjectly
@@ -33,8 +34,10 @@ acutely
 AD
 adagio
 adamantly
+adaxially
 additionally
 adequately
+adjectivally
 adjectively
 administratively
 admirably
@@ -52,11 +55,14 @@ afar
 affably
 affectedly
 affectingly
+affirmatively
 afield
 afoot
 afresh
 aft
+after
 again
+aggravatingly
 aggressively
 agilely
 ago
@@ -286,8 +292,10 @@ bureaucratically
 busily
 by
 cagily
+calculatingly
 callously
 calmly
+canonically
 cantankerously
 capriciously
 captiously
@@ -297,6 +305,8 @@ carnally
 casually
 catalytically
 catastrophically
+caudally
+causally
 caustically
 cautiously
 CE
@@ -340,6 +350,7 @@ cleverly
 climatically
 clinically
 clockwise
+close
 closely
 cloyingly
 clumsily
@@ -347,7 +358,9 @@ coarsely
 coastward
 coastwise
 coaxingly
+cognitively
 coherently
+coincidentally
 coldly
 collect
 collectedly
@@ -368,6 +381,7 @@ competitively
 complacently
 complainingly
 completely
+complexly
 comprehensively
 compulsively
 compulsorily
@@ -409,6 +423,7 @@ contemporaneously
 contemptibly
 contemptuously
 contentedly
+contextually
 continually
 continuously
 contractually
@@ -460,6 +475,7 @@ cumulatively
 cunningly
 curiously
 currishly
+cursively
 cursorily
 curtly
 curvaceously
@@ -473,7 +489,7 @@ daily
 daintily
 damned
 damply
-dan
+dandily
 daringly
 darkly
 dashingly
@@ -512,6 +528,7 @@ demonstratively
 demurely
 denominationally
 densely
+departmentally
 deplorably
 deprecatively
 depressingly
@@ -520,6 +537,7 @@ descriptively
 deservedly
 desolately
 despairingly
+desperately
 despicably
 despitefully
 destructively
@@ -603,6 +621,7 @@ doctrinally
 doggedly
 doggo
 dogmatically
+dolce
 dolefully
 domestically
 domineeringly
@@ -623,6 +642,7 @@ downstairs
 downtown
 downwind
 drably
+draggingly
 dramatically
 drastically
 dreadfully
@@ -645,6 +665,7 @@ easterly
 eastward
 easy
 ebulliently
+eccentrically
 ecclesiastically
 ecologically
 economically
@@ -677,6 +698,7 @@ empirically
 emulously
 encouragingly
 endlessly
+endogenously
 enduringly
 endways
 energetically
@@ -695,6 +717,7 @@ equally
 equitably
 erectly
 ergo
+erotically
 erratically
 eruditely
 eschatologically
@@ -717,6 +740,7 @@ excitedly
 excitingly
 excusably
 exorbitantly
+expansively
 expectantly
 expediently
 expensively
@@ -758,6 +782,7 @@ fascinatingly
 fashionably
 fast
 fastidiously
+fatally
 fatefully
 fatuously
 faultily
@@ -976,9 +1001,11 @@ hilariously
 histologically
 historically
 hoarsely
+hollowly
 home
 homeostatically
 homeward
+homogeneously
 honestly
 honorably
 hopefully
@@ -1004,6 +1031,7 @@ hurriedly
 hydraulically
 hygienically
 hyperbolically
+hypnotically
 hypocritically
 hypothalamically
 hypothetically
@@ -1030,11 +1058,13 @@ imaginatively
 immaculately
 immaturely
 immeasurably
+immediately
 imminently
 immoderately
 immodestly
 immorally
 immovably
+immunologically
 impartially
 impassively
 impatiently
@@ -1091,6 +1121,7 @@ inconsistently
 inconspicuously
 inconveniently
 incorrectly
+incorrigibly
 increasingly
 incredibly
 incredulously
@@ -1184,6 +1215,7 @@ instantaneously
 instinctively
 institutionally
 insubstantially
+insufferably
 insufficiently
 insultingly
 insuperably
@@ -1227,6 +1259,7 @@ irrationally
 irregardless
 irregularly
 irrelevantly
+irreparably
 irreproachably
 irresolutely
 irresponsibly
@@ -1235,6 +1268,7 @@ irreverently
 irreversibly
 irrevocably
 irritably
+irritatingly
 isotropically
 item
 jarringly
@@ -1273,6 +1307,7 @@ lasciviously
 last
 lastingly
 late
+later
 laterally
 laughably
 laughingly
@@ -1309,6 +1344,7 @@ linguistically
 lispingly
 listlessly
 literally
+literatim
 little
 live
 lividly
@@ -1316,6 +1352,7 @@ locally
 loftily
 logarithmically
 logically
+logogrammatically
 long
 longer
 longest
@@ -1327,6 +1364,7 @@ lopsidedly
 loquaciously
 loudly
 low
+loweringly
 lowest
 loyally
 lucidly
@@ -1337,6 +1375,7 @@ lusciously
 lustfully
 lustily
 luxuriantly
+luxuriously
 lyrically
 macroscopically
 madly
@@ -1377,6 +1416,7 @@ meanly
 meanspiritedly
 meanwhile
 measurably
+measuredly
 mechanically
 mechanistically
 medially
@@ -1384,6 +1424,7 @@ medically
 medicinally
 meditatively
 meekly
+mellowingly
 mellowly
 melodically
 melodiously
@@ -1477,6 +1518,7 @@ nearby
 nearer
 nearest
 neatly
+nebulously
 necessarily
 needlessly
 nefariously
@@ -1511,7 +1553,9 @@ nonviolently
 normally
 north
 northeast
+northeastward
 northwest
+northwestward
 nostalgically
 not
 notably
@@ -1583,6 +1627,7 @@ outrageously
 outright
 outside
 outspokenly
+outstandingly
 outward
 outwardly
 over
@@ -1601,6 +1646,7 @@ overwhelmingly
 owlishly
 pacifistically
 painfully
+painlessly
 painstakingly
 palatably
 palely
@@ -1719,6 +1765,7 @@ pointlessly
 poisonously
 politely
 politically
+polygonally
 polyphonically
 polysyllabically
 pompously
@@ -1753,9 +1800,11 @@ predominantly
 preferably
 preferentially
 prematurely
+prepositionally
 presciently
 presentably
 presently
+presidentially
 pressingly
 prestissimo
 presto
@@ -1826,6 +1875,7 @@ quaintly
 qualitatively
 quantitatively
 quarterly
+quaveringly
 queasily
 queerly
 questionably
@@ -1836,11 +1886,13 @@ quickly
 quietly
 quite
 quixotically
+rabidly
 racially
 racily
 radially
 radiantly
 radically
+radioactively
 raggedly
 rakishly
 rallentando
@@ -1863,11 +1915,14 @@ recently
 receptively
 recklessly
 recognizably
+recurrently
+redly
 reflectively
 reflexly
 refreshingly
 regally
 regardless
+regimentally
 regionally
 regretfully
 regularly
@@ -1890,6 +1945,7 @@ reputably
 reputedly
 resentfully
 reservedly
+residentially
 resignedly
 resolutely
 resoundingly
@@ -1954,6 +2010,7 @@ scathingly
 scenically
 sceptically
 schematically
+schismatically
 scholastically
 scienter
 scientifically
@@ -2013,6 +2070,7 @@ shrilly
 shudderingly
 shyly
 sic
+sidearm
 sidelong
 sidesaddle
 sideward
@@ -2027,6 +2085,8 @@ simultaneously
 sincerely
 singly
 singularly
+sinuously
+sinusoidally
 sixfold
 sixthly
 sketchily
@@ -2094,14 +2154,18 @@ sordidly
 sorely
 sorrowfully
 sottishly
+soughingly
 soulfully
 soullessly
 soundly
 sourly
 south
 southeast
+southeastward
 southerly
 southwest
+southwestward
+spaceward
 sparsely
 spasmodically
 spatially
@@ -2126,6 +2190,7 @@ spotlessly
 spuriously
 squarely
 squeamishly
+stably
 staccato
 stagily
 standoffishly
@@ -2156,6 +2221,7 @@ stolidly
 stonily
 stormily
 stoutly
+straight
 straightway
 strategically
 strenuously
@@ -2186,6 +2252,7 @@ succinctly
 such
 suddenly
 sufficiently
+suggestively
 sulkily
 summarily
 sumptuously
@@ -2212,6 +2279,8 @@ symmetrically
 sympathetically
 symptomatically
 synchronously
+synergistically
+synonymously
 syntactically
 synthetically
 systematically
@@ -2231,6 +2300,7 @@ tastelessly
 tastily
 tauntingly
 tautly
+taxonomically
 tearfully
 technically
 technologically
@@ -2309,6 +2379,7 @@ tomorrow
 tonelessly
 tonight
 topographically
+topologically
 tortuously
 touchily
 toughly
@@ -2335,6 +2406,7 @@ truly
 trustfully
 truthfully
 tumultuously
+tunelessly
 turbulently
 turgidly
 tutorially
@@ -2343,6 +2415,7 @@ twirlingly
 twofold
 typically
 typographically
+ulteriorly
 ultimately
 ultrasonically
 unabashedly
@@ -2364,6 +2437,7 @@ unawares
 unbearably
 unbeknown
 unbelievably
+unblinkingly
 unblushingly
 uncannily
 unceremoniously
@@ -2533,6 +2607,7 @@ verbosely
 verily
 vertically
 very
+vexatiously
 vicariously
 viciously
 victoriously
@@ -2554,6 +2629,7 @@ vocationally
 vociferously
 volcanically
 volumetrically
+voluminously
 voluntarily
 voluptuously
 voraciously
@@ -2609,10 +2685,12 @@ worthily
 worthlessly
 wrathfully
 wretchedly
+wrongfully
 wrongheadedly
 wrongly
 wryly
 yea
+yesterday
 yet
 yonder
 youthfully
