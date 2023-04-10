@@ -1,6 +1,6 @@
 # phoque-you
 
-A shell script to generate a (usually buggy) random insult
+A shell script to generate a (usually buggy) random insult, you decimal-including interrogatively-affectionate superstitiously-surging paternal bacteremia.
 
 ## Usage
 
