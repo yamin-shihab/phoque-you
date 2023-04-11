@@ -6,7 +6,9 @@ A shell script to generate a (usually buggy) random insult, you decimal-includin
 
 Just run `phoque-you.sh` (make sure you're in the same directory as the `words/` directory). It literally just puts random words together, so it may accidentally be good at what it does.
 
-The `wordgen.ts` file is a script to be run using [Deno](deno.land) (`deno run wordgen.ts`, as it downloads and asks for permission). It takes in a list of verbs and outputs a present participle version of all the verbs.
+The `wordgen.ts` file is a script to be run using [Deno](deno.land) (`deno run wordgen.ts`, as it downloads and asks for permission). It takes in a list of verbs and outputs a present participle version of all the verbs. `sort $file | uniq > $file` is then usually done afterwards.
+
+This is all usually done with an original copy of the [WordNet word database](https://wordnet.princeton.edu/download/current-version), but this has already been done (`words/`).
 
 ## WordNet
 
