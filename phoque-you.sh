@@ -8,8 +8,8 @@ rand() {
 }
 
 # The final format string
-insult="$(printf 'You %s-%s %s-%s %s-%s %s %s' $(rand noun verb adverb adjective adverb verb adjective noun))"
-printf "$insult\n"
+insult="$(printf '%s-%s %s-%s %s-%s %s %s %s' $(rand noun verb adverb adjective adverb verb verb adjective noun))"
+printf "You ${insult}!\n"
 if type "xclip" > /dev/null; then
     printf "$insult" | xclip -sel c
 elif type "xsel" > /dev/null; then
