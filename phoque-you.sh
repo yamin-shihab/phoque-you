@@ -9,9 +9,11 @@ rand() {
 
 # The final format string
 insult="$(printf '%s-%s %s-%s %s-%s %s %s %s' $(rand noun verb adverb adjective adverb verb verb adjective noun))"
-printf "You ${insult}!\n"
-if type "xclip" > /dev/null; then
-    printf "$insult" | xclip -sel c
+printf "You %s!\n" "$insult"
+if type "wl-copy" > /dev/null; then
+    echo "$insult" | wl-copy 
 elif type "xsel" > /dev/null; then
-    printf "$insult" | xsel -ib
+    echo "$insult" | xsel -ib
+elif type "xclip" > /dev/null; then
+    echo "$insult" | xclip -sel c
 fi
