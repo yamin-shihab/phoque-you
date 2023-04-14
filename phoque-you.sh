@@ -14,4 +14,6 @@ if type "xclip" > /dev/null; then
     printf "$insult" | xclip -sel c
 elif type "xsel" > /dev/null; then
     printf "$insult" | xsel -ib
+elif type "wl-copy -h" > /dev/null; then
+    printf "$insult" | wl-copy 
 fi
