@@ -1,14 +1,31 @@
-#!/usr/bin/env -S deno run
+#!/usr/bin/env -S deno run -A
 
 // The natural language processing library to be used
 import nlp from "npm:compromise";
 
-// Open up the verbs file and print a gerund version of it
-const text = await Deno.readTextFile("words-orig/verbs.txt");
-const words = text.split("\n");
-for (const word of words) {
-    const gerund = nlp(word).verbs().toGerund().all().text();
-    if (gerund.slice(-3) === "ing") {
-        console.log(gerund.split(" ").slice(-1)[0]);
-    }
+// Creates the given wordlist using a callback
+async function format_file(
+    name: string,
+    callback: (word: string) => string[],
+): Promise<void> {
+    const filename = "words/" + name.toLowerCase() + "s.txt";
+    console.log("Creating: " + filename);
+    const text = await Deno.readTextFile("wordlist.txt");
+    const words = nlp(text).canBe(name).out("array").flatMap(callback).join(
+        "\n",
+    );
+    console.log(words);
+    await Deno.writeTextFile(filename, words);
 }
+
+// Creates the wordlists
+format_file("Adjective", (adjective) => {
+    adjective = nlp(adjective).adjectives().all().text();
+    return adjective.slice(-3) !== "est" ? [adjective] : [];
+});
+format_file("Verb", (verb) => {
+    verb = nlp(verb).verbs().toGerund().all().text().split(" ").slice(-1)[0];
+    return verb.slice(-3) === "ing" ? [verb] : [];
+});
+format_file("Adverb", (adverb) => [nlp(adverb).adverbs().all().text()]);
+format_file("Noun", (noun) => [nlp(noun).nouns().toSingular().all().text()]);
